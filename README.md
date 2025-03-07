@@ -72,11 +72,11 @@ The **IoT-Based Smart Pet Feeder** addresses these challenges by leveraging IoT 
 ### 🚧 Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-repo>/iot-smart-pet-feeder.git
+   git clone https://github.com/didula08/Smart-food-feeder.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd iot-smart-pet-feeder
+   cd Smart-food-feeder
    ```
 3. **Install dependencies for the mobile app:**
    ```bash
