@@ -11,6 +11,9 @@
 ## ✨ Introduction
 The **IoT-Based Smart Pet Feeder** is a modern solution for pet care, offering automation and convenience. It ensures timely feeding, real-time food level monitoring, and portion customization through a mobile app, making pet care simpler and more efficient.
 
+![WhatsApp Image 2025-04-09 at 23 39 32_94dc530e](https://github.com/user-attachments/assets/18539dee-ae31-4e5a-983c-d8694139af95)
+
+
 ---
 
 ## 🚨 Problem and Solution
@@ -89,7 +92,7 @@ The **IoT-Based Smart Pet Feeder** addresses these challenges by leveraging IoT 
 ### 📱 Running the Mobile App
 1. **Start the development server:**
    ```bash
-   npm start
+   npx expo start
    ```
 2. **Run the app on a device or emulator:**
    ```bash
@@ -97,6 +100,17 @@ The **IoT-Based Smart Pet Feeder** addresses these challenges by leveraging IoT 
    # or
    npm run ios
    ```
+
+---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61ac58e7-8ffc-4c6e-b92c-e276c3d7a6c6" width="30%" />
+  <img src="https://github.com/user-attachments/assets/09557162-c66c-459b-b982-ec74e733f07a" width="30%" />
+  <img src="https://github.com/user-attachments/assets/cc6d06e7-c9e8-4270-a1c0-759210484748" width="30%" />
+</p>
+
+
+
+
 
 ---
 
