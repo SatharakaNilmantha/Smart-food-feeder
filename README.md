@@ -121,6 +121,9 @@ The **IoT-Based Smart Pet Feeder** addresses these challenges by leveraging IoT 
 3. Configure feeding schedules and portion sizes.
 4. Monitor food levels and receive alerts in real-time.
 
+![WhatsApp Image 2025-04-10 at 10 50 01_e975191d](https://github.com/user-attachments/assets/52b640bf-6a88-46d7-a298-8c8f9308c380)
+
+
 ---
 
 ## 🌟 Future Enhancements
