@@ -142,3 +142,5 @@ For any questions or feedback, reach out to the team at **[didulanethmina2000@gm
 
 ## ❤️ Acknowledgments
 Thanks to everyone who supported us in building this project, including our mentors and peers!
+
+### 💡 If you like this project, don't forget to give it a ⭐ on GitHub! 😊
